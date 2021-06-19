@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491699916929",
+    "firebase_url": "https://fitfresh-9859b.firebaseio.com",
+    "project_id": "fitfresh-9859b",
+    "storage_bucket": "fitfresh-9859b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491699916929:android:d0aeb3912b03334b2efd80",
+        "android_client_info": {
+          "package_name": "com.example.fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491699916929-s8ft36nm7be06hp1hv3oju2kc996grug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAim-mx6QFdN9mNZLyBDCVMVNPHziPLxww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491699916929-s8ft36nm7be06hp1hv3oju2kc996grug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
